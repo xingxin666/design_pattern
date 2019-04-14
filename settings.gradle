@@ -5,4 +5,5 @@ include 'com.xingxin.learn.designpattern.template'
 include 'template'
 include 'adapter'
 include 'decorator'
+include 'observer'
 
